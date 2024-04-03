@@ -38,7 +38,6 @@ public class Code04_quickSort {
                 array[pointer] = temp;
                 pointer++;
             }
-            System.out.println(Arrays.toString(array));
         }
         // 将中心元素和指针指向的元素交换位置
         int temp = array[pointer];
