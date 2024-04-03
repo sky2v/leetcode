@@ -2,6 +2,9 @@ package other;
 
 import java.util.Arrays;
 
+/**
+ * 分治算法思想
+ */
 public class Code09_BinarySearch {
 
     public static int[] generateRandomArray(int maxSize, int maxValue) {
