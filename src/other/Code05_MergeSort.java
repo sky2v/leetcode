@@ -1,9 +1,8 @@
 package other;
 
 import java.util.Arrays;
-import java.util.stream.Collectors;
 
-public class Code05_MergeSor {
+public class Code05_MergeSort {
 
 
     public static int[] generateRandomArrays(int maxSize, int maxValue) {
